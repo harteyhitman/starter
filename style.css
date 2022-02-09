@@ -1,0 +1,98 @@
+*{
+    box-sizing: border-box;
+}
+.start {
+    background-color: black;
+    color: blanchedalmond;
+    display: flex;
+    justify-content: space-around;
+}
+.boot {
+    align-self: center;
+    width: 40%;
+}
+nav ul {
+    list-style: none;
+    color: blanchedalmond;
+}
+nav ul li {
+    display: inline-block;
+}
+nav ul a {
+    text-decoration: none;
+    color: #fff;
+}
+.container {
+    width: 85%;
+    margin: 0em auto;
+}
+.start1 {
+    justify-content: space-between;
+    margin-top: 1em;
+    display: flex;
+}
+.start1 .start2 {
+    width: 55%;
+    background-color: #cccccc;
+    color: #969696;
+    font-size: 4rem;
+    text-align: center;
+    padding: 1em;
+}
+.start1 .start3 {
+    width: 40%;
+}
+.start1 .start3 button {
+    background-color: blue;
+    color: white;
+    padding: 0.4em;
+    border: blue;
+}
+.start4 {
+    background-color: #6c757e;
+    color: #fff;
+    margin-top: 1em;
+    padding: 1em 0em;
+    text-align: center;
+}
+.start5 {
+    display: flex;
+}
+footer {
+    background-color: #353a40;
+    color: #fff;
+    padding: 0.3em;
+    text-align: center;
+}
+footer p {
+    padding: 0em;
+    margin: 0em;
+}
+button {
+    background-color: blue;
+    color: white;
+    padding: 0.4em;
+    border: blue;
+}
+.start6 {
+    width: 100%;
+    border: 1px solid #dedede;
+    font-size: 1.0rem;
+    margin-right: 20px;
+}
+.start7 {
+    width: 100%;
+    border: 1px solid #dedede;
+    font-size: 1.0rem;
+}
+.start8 {
+    width: 100%;
+    border: 1px solid #dedede;
+    font-size: 1.0rem;
+    margin-left: 20px;
+}
+.start5 {
+    margin: 0.5em;
+    justify-content: center;
+    padding: 0.5em;
+}
